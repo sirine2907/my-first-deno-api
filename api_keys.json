@@ -1,0 +1,22 @@
+{
+  "keys": [
+    {
+      "key": "sk-1234567890abcdef",
+      "name": "Test API Key",
+      "created": "2026-10-16T10:00:00Z",
+      "active": true
+    },
+    {
+      "key": "sk-abcdef1234567890",
+      "name": "Development API Key",
+      "created": "2026-10-16T10:00:00Z",
+      "active": true
+    },
+    {
+      "key": "sk-revoked000000000",
+      "name": "Revoked Key (for testing)",
+      "created": "2026-10-16T10:00:00Z",
+      "active": false
+    }
+  ]
+}
